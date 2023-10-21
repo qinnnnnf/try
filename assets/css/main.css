@@ -118,6 +118,7 @@ input, select, textarea {
 		a:hover {
 			border-bottom-color: transparent;
 			color: #283970 !important;
+			font-weight: 700;
 		}
 
 	strong, b {
